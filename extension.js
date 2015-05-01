@@ -58,7 +58,7 @@
         botName: "KAPATEJlb",
         language: "english",
         startupCap: 1, // 1-200
-        startupVolume: 5, // 0-100
+        startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
@@ -94,15 +94,15 @@
         motdEnabled: false,
         motdInterval: 5,
         motd: "Temporary Message of the Day",
-        filterChat: true,
+        filterChat: false,
         etaRestriction: false,
-        welcome: true,
+        welcome: false,
         opLink: null,
-        rulesLink: null,
+        rulesLink: http://pastebin.com/30knKZCM,
         themeLink: null,
-        fbLink: null,
-        youtubeLink: null,
-        website: null,
+        fbLink: http://vk.com/beastqt2,
+        youtubeLink: https://www.youtube.com/channel/UC28Or9A84nu8gpQc3Mw6j4Q,
+        website: http://www.twitch.tv/beastqt,
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
