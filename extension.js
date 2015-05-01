@@ -55,10 +55,10 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
+        botName: "KAPATEJlb",
+        language: "russian",
         startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupVolume: 2, // 0-100
         startupEmoji: false, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
